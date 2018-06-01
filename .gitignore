@@ -1,0 +1,8 @@
+
+src/node_modules/
+
+node_modules/
+
+src/project.log
+
+src/package-lock\.json

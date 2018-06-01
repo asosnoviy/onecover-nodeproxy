@@ -4,9 +4,9 @@ var httpProxy = require('http-proxy');
 var apiProxy = httpProxy.createProxyServer();
 var serverOne = 'http://localhost:1550';
 var log = require('intel');
-log.addHandler(new log.handlers.File('./project.log'));
+log.addHandler(new log.handlers.File('project.log'));
 log.addFilter(new log.Filter(/^.*lineNo.*$/g));
-
+var parseString = require('xml2js').parseString;
 
 
 app.all("/*", function (req, res) {
@@ -18,7 +18,12 @@ app.all("/*", function (req, res) {
 
     req.on('end', function () {
 
-        log.info(jsonStringreq);
+        parseString(jsonStringreq, function(err, result){
+            log.info(JSON.stringify(result));
+        });
+      
+        // log.info(jsonStringreq);
+        // console.log(jsonStringreq);
 
     });
 
