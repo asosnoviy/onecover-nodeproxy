@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "node ./src/proxy/index.js",
+        "install": "npm install ./src/proxy"
+    },
+    "dependencies": {
+        "coverageproxy": "file:src/proxy"
+    }
+}
