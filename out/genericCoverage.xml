@@ -1,0 +1,23 @@
+﻿<coverage version="1">
+    <file path="C:\DEVELOP\onecover-nodeproxy\fixtures\cf\Documents\Документ1\Ext\ObjectModule.bsl">
+        <lineToCover lineNumber="4" covered="true"/>
+        <lineToCover lineNumber="6" covered="true"/>
+        <lineToCover lineNumber="8" covered="true"/>
+        <lineToCover lineNumber="10" covered="true"/>
+    </file>
+    <file path="C:\DEVELOP\onecover-nodeproxy\fixtures\cf\Documents\Документ1\Forms\ФормаДокумента\Ext\Form\Module.bsl">
+        <lineToCover lineNumber="18" covered="true"/>
+        <lineToCover lineNumber="19" covered="true"/>
+        <lineToCover lineNumber="5" covered="true"/>
+        <lineToCover lineNumber="6" covered="true"/>
+        <lineToCover lineNumber="7" covered="true"/>
+        <lineToCover lineNumber="9" covered="true"/>
+        <lineToCover lineNumber="14" covered="true"/>
+    </file>
+    <file path="C:\DEVELOP\onecover-nodeproxy\fixtures\cf\Catalogs\Справочник1\Forms\ФормаЭлемента\Ext\Form\Module.bsl">
+        <lineToCover lineNumber="5" covered="true"/>
+        <lineToCover lineNumber="7" covered="true"/>
+        <lineToCover lineNumber="11" covered="true"/>
+        <lineToCover lineNumber="12" covered="true"/>
+    </file>
+</coverage>
