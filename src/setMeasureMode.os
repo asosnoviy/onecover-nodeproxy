@@ -2,9 +2,9 @@
 
 Если АргументыКоманднойСтроки.Количество() > 0 
 	И АргументыКоманднойСтроки[0] = "start" Тогда
-	ПутьКШаблону = "./fixtures/debugon.xml";
+	ПутьКШаблону = "./fixtures/bodySamples/debugon.xml";
 Иначе
-	ПутьКШаблону = "./fixtures/debugoff.xml";	
+	ПутьКШаблону = "./fixtures/bodySamples/debugoff.xml";	
 КонецЕсли;	
 
 Чтение = Новый ЧтениеТекста(ПутьКШаблону);
