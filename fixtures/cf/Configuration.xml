@@ -133,6 +133,7 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<CommonModule>ОбщийМодуль1</CommonModule>
 			<Catalog>Справочник1</Catalog>
 			<Document>Документ1</Document>
 			<Document>Документ2</Document>

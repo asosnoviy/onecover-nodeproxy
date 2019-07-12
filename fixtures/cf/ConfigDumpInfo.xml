@@ -2,12 +2,14 @@
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
 	<ConfigVersions>
 		<Metadata name="Catalog.Справочник1" id="8579e6d0-6ef5-4b64-8b17-7f666004b239" configVersion="92bd5c63425c3440b53933000462f0e100000000"/>
-		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="4fcb6ccc-1fc4-44b0-89de-e91fd6840511" configVersion="461763d56b04234ba9050a4ba7c806ca00000000"/>
-		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="4fcb6ccc-1fc4-44b0-89de-e91fd6840511.0" configVersion="806251e89c829349a2c3b9ae9b6ab12700000000"/>
-		<Metadata name="Configuration.Конфигурация" id="58183e39-a47c-4a13-a9f7-f6c960773072" configVersion="51fbfbf3dcb0a14ca647d014cf96846d00000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента" id="4fcb6ccc-1fc4-44b0-89de-e91fd6840511" configVersion="05c70520e1dc5d4bac9091180d5cbd1200000000"/>
+		<Metadata name="Catalog.Справочник1.Form.ФормаЭлемента.Form" id="4fcb6ccc-1fc4-44b0-89de-e91fd6840511.0" configVersion="b56512abd0d98d48974b37518ba1eae100000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1" id="1e2790f1-29a8-4f99-ae2d-625a683ec086" configVersion="e522d292eda731419eacbf7efbec415100000000"/>
+		<Metadata name="CommonModule.ОбщийМодуль1.Module" id="1e2790f1-29a8-4f99-ae2d-625a683ec086.0" configVersion="94be7bab8894f04295e1dde1eadb218800000000"/>
+		<Metadata name="Configuration.Конфигурация" id="58183e39-a47c-4a13-a9f7-f6c960773072" configVersion="56686b633bd6d24c9ead47ff2ac1583a00000000"/>
 		<Metadata name="Document.Документ1" id="fb84ce0e-e9ed-4113-9ba7-c000e6372cf0" configVersion="84b411b78ba6724499a67513766f33b900000000"/>
-		<Metadata name="Document.Документ1.Form.ФормаДокумента" id="04132787-f61a-41c5-b2fc-949ba4f6c45a" configVersion="d72c0791500e664d9714d86bbb1090f300000000"/>
-		<Metadata name="Document.Документ1.Form.ФормаДокумента.Form" id="04132787-f61a-41c5-b2fc-949ba4f6c45a.0" configVersion="9f3a42c3c7646347bb0a234637bffaeb00000000"/>
+		<Metadata name="Document.Документ1.Form.ФормаДокумента" id="04132787-f61a-41c5-b2fc-949ba4f6c45a" configVersion="ef6b0cbea706924ea5e6e83828a2596f00000000"/>
+		<Metadata name="Document.Документ1.Form.ФормаДокумента.Form" id="04132787-f61a-41c5-b2fc-949ba4f6c45a.0" configVersion="81695d43061c7d4c828e68dd4f06670000000000"/>
 		<Metadata name="Document.Документ1.ManagerModule" id="fb84ce0e-e9ed-4113-9ba7-c000e6372cf0.2" configVersion="8d56668c55926a49869c3b9ac26ab30000000000"/>
 		<Metadata name="Document.Документ1.ObjectModule" id="fb84ce0e-e9ed-4113-9ba7-c000e6372cf0.0" configVersion="120b617726d34d44af8a717053c9961200000000"/>
 		<Metadata name="Document.Документ2" id="81870088-f71f-4792-aa41-f93adf662f2a" configVersion="d377e17c4435e0448e60067d16b428e400000000"/>
