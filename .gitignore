@@ -6,3 +6,5 @@ node_modules/
 src/project.log
 
 src/package-lock\.json
+
+package-lock\.json
