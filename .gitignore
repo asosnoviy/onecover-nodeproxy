@@ -12,3 +12,5 @@ package-lock\.json
 \.scannerwork/
 
 \.vscode/
+
+tools/vanessa-automation-single\.epf
