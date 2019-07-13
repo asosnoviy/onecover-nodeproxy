@@ -11,8 +11,8 @@
     "КлиентыТестирования":[
         {
           "Имя": "Этот клиент",
-          "ПутьКИнфобазе": "/FC:\\Users\\a.sosnoviy\\Documents\\testForCover",
-          "ДопПараметры": "/debug -http -attach /debuggerURLhttp://10.127.148.92:3000 /AppAutoCheckMode",
+          "ПутьКИнфобазе": "",
+          "ДопПараметры": "/IBConnectionString%IBConnectionString% /debug -http -attach /debuggerURL%PROXY_URL% /AppAutoCheckMode",
           "ТипКлиента": "Тонкий",
           "ИмяКомпьютера": "localhost",
           "ПортЗапускаТестКлиента": "1538",
@@ -34,4 +34,5 @@
     "Video"
     ],
     "ВыполнятьШагиАссинхронно":"Ложь"
+
    }
