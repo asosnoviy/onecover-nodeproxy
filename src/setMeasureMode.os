@@ -15,7 +15,7 @@
 Заголовки.Вставить("accept-charset", "utf-8");
 Заголовки.Вставить("content-type", "application/xml");
 
-АдрессДебагера = ПолучитьПеременнуюСреды("debuggerURL");
+АдрессДебагера = ПолучитьПеременнуюСреды("PROXY_URL");
 
 Результат = КоннекторHTTP.Post(
 	АдрессДебагера + "/e1crdbg/rdbg?cmd=setMeasureMode",

@@ -9,7 +9,7 @@ var apiProxy = httpProxy.createProxyServer();
 var log = require('intel');
 
 log.addHandler(new log.handlers.File(proxyResultDir));
-log.addFilter(new log.Filter(/^.*d2p1:measure.*$/g));
+log.addFilter(new log.Filter(/.*d2p1:measure.*/));
 var parseString = require('xml2js').parseString;
 
 
