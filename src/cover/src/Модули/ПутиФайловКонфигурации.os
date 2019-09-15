@@ -49,8 +49,9 @@
 	ИменаПапок.Вставить("Report", "Reports");
 	ИменаПапок.Вставить("InformationRegister", "InformationRegisters");
 	ИменаПапок.Вставить("CommonForm", "CommonForms");
-	ИменаПапок.Вставить("ChartOfAccounts", "ChartOfAccounts");
-	ИменаПапок.Вставить("ChartOfCharacteristicTypes", "ChartOfCharacteristicTypes");
+	ИменаПапок.Вставить("ChartOfAccounts", "ChartsOfAccounts");
+	ИменаПапок.Вставить("ChartOfCalculationTypes", "ChartsOfCalculationTypes");
+	ИменаПапок.Вставить("ChartOfCharacteristicTypes", "ChartsOfCharacteristicTypes");
 
 	Разделитель = ПолучитьРазделительПути();
 КонецПроцедуры	
