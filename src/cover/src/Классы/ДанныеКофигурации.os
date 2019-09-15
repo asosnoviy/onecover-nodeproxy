@@ -65,5 +65,9 @@
 	ТипыМодулей.Вставить("32e087ab-1491-49b6-aba7-43571b41ac2b", "Form\Module");
 	ТипыМодулей.Вставить("9b7bbbae-9771-46f2-9e4d-2489e0ffc702", "SessionModule");
 	ТипыМодулей.Вставить("d22e852a-cf8a-4f77-8ccb-3548e7792bea", "ManagedApplicationModule");
+	ТипыМодулей.Вставить("078a6af8-d22c-4248-9c33-7e90075a3d2c", "CommandModule");
+	ТипыМодулей.Вставить("9f36fd70-4bf4-47f6-b235-935f73aab43f", "RecordSetModule");
+    ТипыМодулей.Вставить("0c8cad23-bf8c-468e-b49e-12f1927c048b", "ManagerModule");
+
 
 КонецПроцедуры	
